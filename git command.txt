@@ -1,0 +1,1 @@
+git init : This command make the directory a Git repository.
