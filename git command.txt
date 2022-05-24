@@ -19,7 +19,7 @@ git pull origin master :  If you want to pull content from your remote repositor
 
 git config --global user.name "Name" : This command is used to configure or set the user name.
 
-git config --global user.email "email id" :This command is used to ser email.
+git config --global user.email "email id" : This command is used to ser email.
 
 Note : After performing git init command we will not see any change in folder, because
        the .git/folder is hidden default.
