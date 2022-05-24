@@ -1,1 +1,2 @@
 git init : This command make the directory a Git repository.
+git status : This command is used to check status of repository.
