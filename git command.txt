@@ -1,2 +1,8 @@
 git init : This command make the directory a Git repository.
 git status : This command is used to check status of repository.
+git --version : This command is used to check the version of git installed on our system.
+git add. : This command add all the files of a repository to the staging area.
+
+git commit -m "message" : This command is used to commit all the changes.
+                          It creates a "save point"  i.e. we can revert to the 
+                          old save point when needed.
