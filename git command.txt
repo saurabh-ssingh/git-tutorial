@@ -6,3 +6,20 @@ git add. : This command add all the files of a repository to the staging area.
 git commit -m "message" : This command is used to commit all the changes.
                           It creates a "save point"  i.e. we can revert to the 
                           old save point when needed.
+
+
+git log :   This command is used to view the history of commit of a repository.
+
+git push -u origin master : The above code will push all the content of your local 
+                            repository to the remote repository.
+
+git pull origin master :  If you want to pull content from your remote repository, then
+                          execute the command.
+
+
+git config --global user.name "Name" : This command is used to configure or set the user name.
+
+git config --global user.email "email id" :This command is used to ser email.
+
+Note : After performing git init command we will not see any change in folder, because
+       the .git/folder is hidden default.
